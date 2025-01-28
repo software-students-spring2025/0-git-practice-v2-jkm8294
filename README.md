@@ -1,5 +1,5 @@
 
-=======
+
 # An Interesting Article - jkm8294
 
 [Career Crush: What is it like to be a Software Engineer](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer)
@@ -13,4 +13,4 @@ Additionally, the article breaks down the diverse paths within the field, from i
 Lindsey's experience in this male-dominated industry and her preparation for intense technical interviews resonates with me deeply. It serves as an inspiring reminder that persistence, curiosity, and community support can help anyone overcome barriers. 
 Furthermore, the interview style of this article made the entire experience more personal, like a one and one conversation between Lindsey and the audience. 
 
->>>>>>> 78cde85 (Initial commit)
+
