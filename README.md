@@ -14,3 +14,9 @@ Lindsey's experience in this male-dominated industry and her preparation for int
 Furthermore, the interview style of this article made the entire experience more personal, like a one and one conversation between Lindsey and the audience. 
 
 >>>>>>> 78cde85 (Initial commit)
+
+## My Comment - Added by Nicholas Michael
+I particularly enjoyed how Lindsey highlights the critical role of collaboration in her daily work. 
+It's a reminder that even in a highly technical field like software engineering, teamwork and strong interpersonal skills can make a significant difference. It made me reflect on how these principles apply not only to engineering but to nearly every profession. 
+
+– [Nicholas Michael]
